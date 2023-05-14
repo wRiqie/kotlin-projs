@@ -1,4 +1,4 @@
-package br.com.first_proj
+package br.com.first_proj.estruturada
 
 fun main() {
     var numbers = arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)

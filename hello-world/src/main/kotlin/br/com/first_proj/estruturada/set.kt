@@ -1,4 +1,4 @@
-package br.com.first_proj
+package br.com.first_proj.estruturada
 
 fun main() {
     // Distinct elements

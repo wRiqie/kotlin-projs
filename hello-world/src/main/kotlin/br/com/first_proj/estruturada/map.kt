@@ -1,4 +1,4 @@
-package br.com.first_proj
+package br.com.first_proj.estruturada
 
 fun main() {
     val map = mapOf("one" to 1, "two" to 2, "three" to 3)

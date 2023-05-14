@@ -1,3 +1,5 @@
+package br.com.first_proj.estruturada
+
 import java.math.BigDecimal
 
 fun main() {
